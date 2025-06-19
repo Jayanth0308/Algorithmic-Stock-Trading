@@ -39,6 +39,3 @@ The script will download price data, train the model, run a simple backtest and 
 - `results/backtest.csv` – detailed daily returns
 - `models/xgb_model.pkl` – the fitted model
 
-These outputs allow inspection of the basic strategy performance.
-=======
-main
