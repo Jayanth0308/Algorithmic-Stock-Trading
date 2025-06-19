@@ -1,3 +1,4 @@
+build-ml-model-for-stock-price-prediction-and-trading
 # Algorithmic Stock Trading
 
 This repository contains a minimal example of building a machine-learning driven trading strategy. The goal is to demonstrate how historical price data can be used to train a predictive model and evaluate a simple trading rule.
@@ -39,3 +40,5 @@ The script will download price data, train the model, run a simple backtest and 
 - `models/xgb_model.pkl` – the fitted model
 
 These outputs allow inspection of the basic strategy performance.
+=======
+main
